@@ -1,0 +1,4 @@
+[12]?.txt
+[0-9].txt
+*.pyc
+launch.json
